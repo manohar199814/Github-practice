@@ -1,6 +1,0 @@
-==================
-chapter2
-=====================
-started chapter2.txt
-
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum recusandae amet exercitationem natus, nostrum porro fuga iste laboriosam provident, eligendi sit minus quibusdam impedit voluptatum. Aliquam dolore in placeat consectetur blanditiis iusto dolor nobis sunt, explicabo voluptas? In expedita sapiente quaerat ex, perferendis modi accusamus facere inventore vero, eaque voluptatibus!
